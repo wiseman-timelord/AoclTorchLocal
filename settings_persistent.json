@@ -1,0 +1,7 @@
+{
+    "torch_model_library": "",
+    "api_port_hosting": 5000,
+    "selected_model": "",
+    "rate_limit": 10,
+    "num_threads": 16
+}
